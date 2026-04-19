@@ -3,10 +3,10 @@
 ## Project Overview
 
 ## Environments and Technologies Used
-* **Cisco Packet Tracer (Network Simulation) 
-* **Cisco IOS CLI (Interface Configuration & Verification)
-* **ICMP Protocol (Connectivity Testing/Troubleshooting) 
-* **IPv4 Addressing & Subnetting
+* Cisco Packet Tracer (Network Simulation) 
+* Cisco IOS CLI (Interface Configuration & Verification)
+* ICMP Protocol (Connectivity Testing/Troubleshooting) 
+* IPv4 Addressing & Subnetting
 
 ## Objectives
 1. Verify Network Documentation: Complete the addressing table and identify discrepancies between documented and actual configurations.
