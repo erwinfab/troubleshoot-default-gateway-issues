@@ -16,6 +16,7 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 4. Verify Connectivity: Confirm successful end-to-end communication across all network segments. 
 
 ## Addressing Table
+
 | Device | Interface | IP Address | Subnet Mask | Default Gateway |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **R1** | 47 | /26 | 10.1.1.0 | 10.1.1.1 - 10.1.1.62 | 10.1.1.63 |
