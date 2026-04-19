@@ -25,3 +25,11 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 | **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
 | **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
 | **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
+
+## Troubleshooting & Configuration Steps
+
+Step 1: Resolving Local IP Conflicts
+
+* ** Issue: PC1 could not ping PC2 because it was misconfigured with IP 192.168.10.11 (a conflict with PC2). 
+* ** Action: Re-configured PC1 with the documented address 192.168.10.10. 
+* ** Result: Restored local connectivity on the 192.168.10.0/24 subnet.
