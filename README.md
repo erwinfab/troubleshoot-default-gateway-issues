@@ -18,7 +18,7 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 ## Addressing Table
 
 | Device | Interface | IP Address | Subnet Mask | Default Gateway |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **R1** | 47 | /26 | 10.1.1.0 | 10.1.1.1 - 10.1.1.62 | 10.1.1.63 |
 | **R1** | 28 | /27 | 10.1.1.64 | 10.1.1.65 - 10.1.1.94 | 10.1.1.95 |
 | **S1** | 11 | /28 | 10.1.1.96 | 10.1.1.97 - 10.1.1.110 | 10.1.1.111 |
