@@ -45,3 +45,4 @@ Step 3: Switch Management & Gateway Configuration
 
 * Configuration (S1):
 <img width="625" height="293" alt="image" src="https://github.com/user-attachments/assets/3b72afe5-95c6-48fe-b4f7-e65ac98291e7" />
+* Result: Full management reachability and 100% lab completion verified via ICMP.
