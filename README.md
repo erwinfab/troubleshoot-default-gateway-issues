@@ -24,8 +24,21 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 | **S1** | VLAN 1 | 192.168.10.2 | 255.255.255.0 | 192.168.10.1 | 
 | **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
 | **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
-| **PC2** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
-| **PC3** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
+| **PC2** | NIC | 192.168.10.11 | 255.255.255.0 | 192.168.10.1 | 
+| **PC3** | NIC | 192.168.11.10 | 255.255.255.0 | 192.168.11.1 | 
+| **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
+<img width="611" height="290" alt="image" src="https://github.com/user-attachments/assets/70735ad5-cfcc-49f8-bf24-cd47b598ee0d" />
+
+## troubleshooting & Verification Documentation
+| Test | Successful? | IP Address | Subnet Mask | Default Gateway |
+| :--- | :--- | :--- | :--- | :--- |
+| **R1** | G0/0 | 192.168.10.1 | 255.255.255.0 | N/A | 
+| **R1** | G0/1 | 192.168.11.1 | 255.255.255.0 | N/A | 
+| **S1** | VLAN 1 | 192.168.10.2 | 255.255.255.0 | 192.168.10.1 | 
+| **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
+| **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
+| **PC2** | NIC | 192.168.10.11 | 255.255.255.0 | 192.168.10.1 | 
+| **PC3** | NIC | 192.168.11.10 | 255.255.255.0 | 192.168.11.1 | 
 | **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
 
 ## Troubleshooting & Configuration Steps
@@ -47,7 +60,7 @@ Step 3: Switch Management & Gateway Configuration
 
 
 * Configuration (S1):
-<img width="625" height="293" alt="image" src="https://github.com/user-attachments/assets/3b72afe5-95c6-48fe-b4f7-e65ac98291e7" />
+<img width="436" height="71" alt="image" src="https://github.com/user-attachments/assets/b7d8bcf8-f843-4cc4-afbe-1bf482711032" />
 * Result: Full management reachability and 100% lab completion verified via ICMP.
 
 * Deployment and Verification Screenshots
