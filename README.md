@@ -41,3 +41,7 @@ Step 2: Correcting Host Default Gateways
 Step 3: Switch Management & Gateway Configuration
 * Issue: S1 and S2 were unreachable from remote subnets, and S2 was missing its management IP. 
 * Configuration (S2):
+<img width="623" height="377" alt="image" src="https://github.com/user-attachments/assets/d8887175-6295-4f47-915b-5d4439a5fd90" />
+
+* Configuration (S1):
+<img width="625" height="293" alt="image" src="https://github.com/user-attachments/assets/3b72afe5-95c6-48fe-b4f7-e65ac98291e7" />
