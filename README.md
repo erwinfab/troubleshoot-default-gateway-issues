@@ -24,6 +24,8 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 | **S1** | VLAN 1 | 192.168.10.2 | 255.255.255.0 | 192.168.10.1 | 
 | **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
 | **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
+| **PC2** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
+| **PC3** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
 | **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
 
 ## Troubleshooting & Configuration Steps
@@ -41,8 +43,12 @@ Step 2: Correcting Host Default Gateways
 Step 3: Switch Management & Gateway Configuration
 * Issue: S1 and S2 were unreachable from remote subnets, and S2 was missing its management IP. 
 * Configuration (S2):
-<img width="623" height="377" alt="image" src="https://github.com/user-attachments/assets/d8887175-6295-4f47-915b-5d4439a5fd90" />
+<img width="440" height="124" alt="image" src="https://github.com/user-attachments/assets/dbdb4101-8d55-4cc5-a224-905b1a37c242" />
+
 
 * Configuration (S1):
 <img width="625" height="293" alt="image" src="https://github.com/user-attachments/assets/3b72afe5-95c6-48fe-b4f7-e65ac98291e7" />
 * Result: Full management reachability and 100% lab completion verified via ICMP.
+
+* Deployment and Verification Screenshots
+*  
