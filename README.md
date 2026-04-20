@@ -16,30 +16,10 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 4. Verify Connectivity: Confirm successful end-to-end communication across all network segments. 
 
 ## Addressing Table
-
-| Device | Interface | IP Address | Subnet Mask | Default Gateway |
-| :--- | :--- | :--- | :--- | :--- |
-| **R1** | G0/0 | 192.168.10.1 | 255.255.255.0 | N/A | 
-| **R1** | G0/1 | 192.168.11.1 | 255.255.255.0 | N/A | 
-| **S1** | VLAN 1 | 192.168.10.2 | 255.255.255.0 | 192.168.10.1 | 
-| **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
-| **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
-| **PC2** | NIC | 192.168.10.11 | 255.255.255.0 | 192.168.10.1 | 
-| **PC3** | NIC | 192.168.11.10 | 255.255.255.0 | 192.168.11.1 | 
-| **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
 <img width="611" height="290" alt="image" src="https://github.com/user-attachments/assets/70735ad5-cfcc-49f8-bf24-cd47b598ee0d" />
 
-## troubleshooting & Verification Documentation
-| Test | Successful? | IP Address | Subnet Mask | Default Gateway |
-| :--- | :--- | :--- | :--- | :--- |
-| **R1** | G0/0 | 192.168.10.1 | 255.255.255.0 | N/A | 
-| **R1** | G0/1 | 192.168.11.1 | 255.255.255.0 | N/A | 
-| **S1** | VLAN 1 | 192.168.10.2 | 255.255.255.0 | 192.168.10.1 | 
-| **S2** | VLAN 1 | 192.168.11.2 | 255.255.255.0 | 192.168.11.1 | 
-| **PC1** | NIC | 192.168.10.10 | 255.255.255.0 | 192.168.10.1 | 
-| **PC2** | NIC | 192.168.10.11 | 255.255.255.0 | 192.168.10.1 | 
-| **PC3** | NIC | 192.168.11.10 | 255.255.255.0 | 192.168.11.1 | 
-| **PC4** | NIC | 192.168.11.11 | 255.255.255.0 | 192.168.11.1 |
+## Troubleshooting & Verification Documentation
+<img width="606" height="390" alt="image" src="https://github.com/user-attachments/assets/576d37f3-8d00-4ac5-833c-2764336018b3" />
 
 ## Troubleshooting & Configuration Steps
 
