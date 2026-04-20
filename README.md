@@ -44,4 +44,5 @@ Step 3: Switch Management & Gateway Configuration
 * Result: Full management reachability and 100% lab completion verified via ICMP.
 
 * Deployment and Verification Screenshots
-*  
+<img width="284" height="292" alt="image" src="https://github.com/user-attachments/assets/286a47e0-0066-4db8-a70b-62d8f7b1c440" />
+
