@@ -1,5 +1,6 @@
 # Troubleshoot Default Gateway Issues (Cisco Packet Tracer)
 <img width="284" height="292" alt="image" src="https://github.com/user-attachments/assets/286a47e0-0066-4db8-a70b-62d8f7b1c440" />
+
 ## Project Overview
 This project focuses on the methodical troubleshooting of connectivity issues within a multi-subnet network. The primary objective was to verify network documentation, isolate local and remote connectivity problems, and implement IOS configuration solutions to restore end-to-end network integrity.
 
