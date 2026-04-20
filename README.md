@@ -1,5 +1,5 @@
 # Troubleshoot Default Gateway Issues (Cisco Packet Tracer)
-
+<img width="284" height="292" alt="image" src="https://github.com/user-attachments/assets/286a47e0-0066-4db8-a70b-62d8f7b1c440" />
 ## Project Overview
 This project focuses on the methodical troubleshooting of connectivity issues within a multi-subnet network. The primary objective was to verify network documentation, isolate local and remote connectivity problems, and implement IOS configuration solutions to restore end-to-end network integrity.
 
@@ -44,8 +44,4 @@ Step 3: Switch Management & Gateway Configuration
 <img width="436" height="71" alt="image" src="https://github.com/user-attachments/assets/b7d8bcf8-f843-4cc4-afbe-1bf482711032" />
 * Result: Full management reachability and 100% lab completion verified via ICMP.
 * <img width="1283" height="131" alt="image" src="https://github.com/user-attachments/assets/9e290713-857d-47dc-8bf3-565d99b696d0" />
-
-
-## Deployment and Verification Screenshots
-<img width="284" height="292" alt="image" src="https://github.com/user-attachments/assets/286a47e0-0066-4db8-a70b-62d8f7b1c440" />
 
