@@ -44,7 +44,7 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 
 **Step 3: Switch Management & Gateway Configuration**
 * **Issue**: S1 and S2 were unreachable from remote subnets, and S2 was missing its management IP. 
-  * **Configuration** (S2):
+  * **Configuration (S2)**:
 <img width="440" height="124" alt="image" src="https://github.com/user-attachments/assets/dbdb4101-8d55-4cc5-a224-905b1a37c242" />
 
 
