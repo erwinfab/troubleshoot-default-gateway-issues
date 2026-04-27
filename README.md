@@ -11,10 +11,13 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 * IPv4 Addressing & Subnetting
 
 ## Objectives
-1. Verify Network Documentation: Complete the addressing table and identify discrepancies between documented and actual configurations.
-2. Isolate Problems: Perform local and remote connectivity tests (ping) to pinpoint failure points. 
-3. Implement Solutions: Use Cisco IOS commands to correct IP addressing, subnet masks, and default gateways on hosts and switches. 
-4. Verify Connectivity: Confirm successful end-to-end communication across all network segments. 
+**1. Verify Network Documentation**: Complete the addressing table and identify discrepancies between documented and actual configurations.
+
+**2. Isolate Problems**: Perform local and remote connectivity tests (ping) to pinpoint failure points. 
+
+**3. Implement Solutions**: Use Cisco IOS commands to correct IP addressing, subnet masks, and default gateways on hosts and switches. 
+
+**4. Verify Connectivity**: Confirm successful end-to-end communication across all network segments. 
 
 ## Addressing Table
 <img width="611" height="290" alt="image" src="https://github.com/user-attachments/assets/70735ad5-cfcc-49f8-bf24-cd47b598ee0d" />
