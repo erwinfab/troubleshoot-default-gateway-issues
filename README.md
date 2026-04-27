@@ -28,10 +28,12 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 ## Troubleshooting & Configuration Steps
 
 Step 1: Resolving Local IP Conflicts
-* Issue: PC1 could not ping PC2 because it was misconfigured with IP 192.168.10.11 (a conflict with PC2). 
-* Action: Re-configured PC1 with the documented address 192.168.10.10. 
-* Result: Restored local connectivity on the 192.168.10.0/24 subnet.
-* <img width="417" height="330" alt="image" src="https://github.com/user-attachments/assets/b2ba095c-e49c-4d64-8649-53a020d6d137" />: PC1 Ping to PC2- Successful
+* **Issue**: PC1 could not ping PC2 because it was misconfigured with IP 192.168.10.11 (a conflict with PC2). 
+  * **Action**: Re-configured PC1 with the documented address 192.168.10.10. 
+  * **Result**: Restored local connectivity on the 192.168.10.0/24 subnet.
+ <img width="417" height="330" alt="image" src="https://github.com/user-attachments/assets/b2ba095c-e49c-4d64-8649-53a020d6d137" />:
+
+*PC1 Ping to PC2- Successful*
 
 Step 2: Correcting Host Default Gateways
 * Issue: PC4 could not reach remote subnets because its gateway was set to 192.168.1.1 (incorrect subnet). 
