@@ -39,8 +39,8 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
 * **Issue**: PC4 could not reach remote subnets because its gateway was set to 192.168.1.1 (incorrect subnet). 
   * **Action**: Updated PC4 Default Gateway to 192.168.11.1.
   * **Result**: Enabled PC4 to route traffic to the R1 G0/1 interface for remote communication.
-<img width="422" height="330" alt="image" src="https://github.com/user-attachments/assets/541cb1bf-55e7-4989-b403-3605ebd28e91" />: PC4
-*Ping to PC1- Successful*
+<img width="422" height="330" alt="image" src="https://github.com/user-attachments/assets/541cb1bf-55e7-4989-b403-3605ebd28e91" />
+*PC4 Ping to PC1- Successful*
 
 **Step 3: Switch Management & Gateway Configuration**
 * **Issue**: S1 and S2 were unreachable from remote subnets, and S2 was missing its management IP. 
