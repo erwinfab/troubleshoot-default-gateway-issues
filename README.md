@@ -47,6 +47,7 @@ This project focuses on the methodical troubleshooting of connectivity issues wi
   * **Configuration** (S2):
 <img width="440" height="124" alt="image" src="https://github.com/user-attachments/assets/dbdb4101-8d55-4cc5-a224-905b1a37c242" />
 
+
   * **Configuration (S1)**:
 <img width="436" height="71" alt="image" src="https://github.com/user-attachments/assets/b7d8bcf8-f843-4cc4-afbe-1bf482711032" />
 
